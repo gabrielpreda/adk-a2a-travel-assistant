@@ -1,0 +1,8 @@
+fastapi==0.115.2
+uvicorn==0.34.3
+python-multipart==0.0.20
+python-dotenv==1.0.1
+streamlit==1.39.0
+requests==2.32.3
+google-adk==1.16.0
+a2a-sdk==0.3.0
